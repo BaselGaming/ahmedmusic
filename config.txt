@@ -1,6 +1,6 @@
-token=NTE4NDExMzI2MjAxMTM1MTM3.DuQjsA.fkymd-CvwP9X6DUCkjThNnmcg1E
-owner=462038057529507841 
-prefix=A
-game=I love my self , 
+token=NTYwNDU2MTgwMDkxMTkxMzA2.D30NDw.oj928ygaA8HGtHPvqiO-ZLV-RKU
+owner=523816752396632065 
+prefix=1
+game=Type , 1play 
 stayinchannel=true
 songinstatus=false
